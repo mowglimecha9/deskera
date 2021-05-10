@@ -20,7 +20,7 @@
     "eslint": "^5.16.0",
     "eslint-plugin-vue": "^5.0.0",
     "font-awesome": "^4.7.0",
-    "lodash": "^4.17.15",
+    "lodash": "^4.17.21",
     "materialize-social": "^1.0.3",
     "vue-carousel": "^0.18.0",
     "vue-slick": "^1.1.15",
